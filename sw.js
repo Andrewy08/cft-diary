@@ -1,4 +1,4 @@
-const CACHE = 'cft-diary-v1';
+const CACHE = 'cft-diary-v2';
 const ASSETS = [
   './',
   './index.html',
